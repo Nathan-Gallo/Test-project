@@ -1,0 +1,13 @@
+nav ul li{
+    display: inline;
+    list-style-type: none;
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+}
+
+.description {
+    border-bottom: 1px solid black ;
+}
